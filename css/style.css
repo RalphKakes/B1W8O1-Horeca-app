@@ -1,0 +1,24 @@
+body{
+	background-image: url(../img/café.webp);
+	background-size: cover;
+	width: 95%;
+	height: 100%;
+	color: white;
+}
+
+button{
+	height: 50px;
+	width: 125px;
+	margin: 25px;
+	margin-left: 665px;
+	background-color: black;
+	color: white;
+	border-color: solid black;
+	position: absolute;
+    top: 50%;
+    display: block;
+}
+
+h1{
+	text-align: center;
+}
