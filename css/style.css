@@ -22,3 +22,9 @@ button{
 h1{
 	text-align: center;
 }
+
+p{
+	font-family: sans-serif;
+	border-style: solid;
+	word-wrap: break-word;
+}
